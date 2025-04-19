@@ -1,3 +1,7 @@
+numpy>=1.24
+Cython>=3.0
+setuptools>=65.0
+
 absl-py
 annotated-types
 asttokens
@@ -74,7 +78,6 @@ namex
 nest-asyncio
 networkx
 nltk
-numpy
 opencv-python
 opt_einsum
 optree
@@ -118,7 +121,6 @@ safetensors
 scikit-learn
 scipy
 seaborn
-setuptools
 six
 sklearn-compat
 smmap
